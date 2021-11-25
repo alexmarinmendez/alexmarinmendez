@@ -1,4 +1,4 @@
-<h1 align="center">Hola Mundo! 👋<br />Soy Alex Marin Mendez<br />Full Stack Web Developer / Ingeniero en Computer Science</h1>
+<h1 align="center">Hola Mundo! 👋<br />Soy Alex Marin Mendez<br />Full Stack Web Developer / Ingeniero en Computer Science<br />Profesor de React en Coder House 👨‍🎓</h1>
 <h3 align="center">🎯 Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT y/o desde el BACK 🚀</h3>
 &nbsp;<br />
 
