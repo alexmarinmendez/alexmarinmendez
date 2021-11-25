@@ -7,7 +7,9 @@ const perfil = [
     "Ingeniero Informático con educación reglada oficial",
     "Programador de aplicaciones web",
     "Sólidos conocimientos de lógica de programación, Computer Science y solución de problemas",
-    "Experiencia liderando equipos"
+    "Experiencia liderando equipos",
+    "Apasionado por la docencia y la mentoría",
+    "Profesor principal de React en Coder House"
 ];
 ```
 
