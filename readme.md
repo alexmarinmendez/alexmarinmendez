@@ -1,5 +1,5 @@
 <h1 align="center">Hola Mundo! 👋<br />Soy Alex Marin Mendez</h1>
-<h2 align="center">Javascript Developer and Instructor<br />Python, Generative AI and Blockchain enthusiast</h2>
+<h2 align="center">Javascript Developer and Instructor<br />Full Stack Javascript Developer<br />Python, Generative AI and Blockchain enthusiast</h2>
 <h3 align="center">🎯 Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT y/o desde el BACK 🚀</h3>
 &nbsp;<br />
 
